@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-m%le%*$6nd)exan-q+f&5aa+yy4n=29iq#1vui==%tdfbp+5xp
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1','cahtapp.herokuapp.com']
 AUTH_USER_MODEL = 'base.User'
 
 
